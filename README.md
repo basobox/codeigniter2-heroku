@@ -11,7 +11,7 @@ follow the [Introduction](https://devcenter.heroku.com/articles/getting-started-
 * Clone this project:
   
 ```
-$ git clone https://github.com/carloscarcamo/codeigniter2-heroku.git
+$ git clone https://github.com/carloscarcamo/codeigniter2-heroku.git && cd codeigniter2-heroku
 ```
 
 * Create your app on heroku:
