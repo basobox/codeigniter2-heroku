@@ -17,7 +17,7 @@ $ git clone https://github.com/carloscarcamo/codeigniter2-heroku.git && cd codei
 * Create your app on heroku:
 
 ```
-$ heroku create app-name
+$ heroku create <app-name>
 ```
 
 * Now deploy your code:
