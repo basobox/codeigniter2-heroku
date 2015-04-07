@@ -1,5 +1,4 @@
 # codeigniter2-heroku
-A codeigniter 2 app ready to deploy to heroku
 
 This is a template project for deploying codeigniter 2.x to heroku in just a few steps.
 
